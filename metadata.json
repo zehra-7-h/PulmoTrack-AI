@@ -1,0 +1,5 @@
+{
+  "name": "PulmoTrack AI",
+  "description": "A comprehensive respiratory health platform that combines real-time cough monitoring with AI-powered symptom analysis, pulmonary rehabilitation, and air quality tracking.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
